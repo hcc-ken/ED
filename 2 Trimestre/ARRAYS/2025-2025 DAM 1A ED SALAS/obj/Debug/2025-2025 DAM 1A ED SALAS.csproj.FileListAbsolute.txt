@@ -1,0 +1,13 @@
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\obj\Debug\2025-2025 DAM 1A ED SALAS.csproj.AssemblyReference.cache
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\obj\Debug\_2025_2025_DAM_1A_ED_SALAS.Form1.resources
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\obj\Debug\_2025_2025_DAM_1A_ED_SALAS.Form2.resources
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\obj\Debug\_2025_2025_DAM_1A_ED_SALAS.Properties.Resources.resources
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\obj\Debug\2025-2025 DAM 1A ED SALAS.csproj.GenerateResource.cache
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\obj\Debug\2025-2025 DAM 1A ED SALAS.csproj.CoreCompileInputs.cache
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\bin\Debug\2025-2025 DAM 1A ED SALAS.exe.config
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\bin\Debug\2025-2025 DAM 1A ED SALAS.exe
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\bin\Debug\2025-2025 DAM 1A ED SALAS.pdb
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\obj\Debug\2025-2025 DAM 1A ED SALAS.exe
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\obj\Debug\2025-2025 DAM 1A ED SALAS.pdb
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\obj\Debug\2025-2025 DAM 1A ED SALAS.exe.config
+C:\Users\Wilman FP\source\repos\2T ED\2025-2025 DAM 1A ED SALAS\2025-2025 DAM 1A ED SALAS\obj\Debug\_2025_2025_DAM_1A_ED_SALAS.Form3.resources

@@ -1,0 +1,10 @@
+C:\Users\Alumno1\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+C:\Users\Alumno1\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe
+C:\Users\Alumno1\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.pdb
+C:\Users\Alumno1\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.AssemblyReference.cache
+C:\Users\Alumno1\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Properties.Resources.resources
+C:\Users\Alumno1\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.GenerateResource.cache
+C:\Users\Alumno1\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\Alumno1\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe
+C:\Users\Alumno1\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.pdb
+C:\Users\Alumno1\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe.config

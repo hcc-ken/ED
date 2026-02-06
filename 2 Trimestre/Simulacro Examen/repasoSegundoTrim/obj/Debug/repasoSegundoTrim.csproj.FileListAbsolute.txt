@@ -1,0 +1,11 @@
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\bin\Debug\repasoSegundoTrim.exe.config
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\bin\Debug\repasoSegundoTrim.exe
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\bin\Debug\repasoSegundoTrim.pdb
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\obj\Debug\repasoSegundoTrim.csproj.AssemblyReference.cache
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\obj\Debug\repasoSegundoTrim.Form1.resources
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\obj\Debug\repasoSegundoTrim.Properties.Resources.resources
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\obj\Debug\repasoSegundoTrim.csproj.GenerateResource.cache
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\obj\Debug\repasoSegundoTrim.csproj.CoreCompileInputs.cache
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\obj\Debug\repasoSegundoTrim.exe
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\obj\Debug\repasoSegundoTrim.pdb
+C:\Users\Alumno1\source\repos\repasoSegundoTrim\repasoSegundoTrim\obj\Debug\repasoSegundoTrim.exe.config
