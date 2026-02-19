@@ -1,0 +1,10 @@
+C:\Users\huige\source\repos\simulacroExamen2.2\simulacroExamen2.2\bin\Debug\simulacroExamen2.2.exe.config
+C:\Users\huige\source\repos\simulacroExamen2.2\simulacroExamen2.2\bin\Debug\simulacroExamen2.2.exe
+C:\Users\huige\source\repos\simulacroExamen2.2\simulacroExamen2.2\bin\Debug\simulacroExamen2.2.pdb
+C:\Users\huige\source\repos\simulacroExamen2.2\simulacroExamen2.2\obj\Debug\simulacroExamen2.2.csproj.AssemblyReference.cache
+C:\Users\huige\source\repos\simulacroExamen2.2\simulacroExamen2.2\obj\Debug\simulacroExamen2._2.Form1.resources
+C:\Users\huige\source\repos\simulacroExamen2.2\simulacroExamen2.2\obj\Debug\simulacroExamen2._2.Properties.Resources.resources
+C:\Users\huige\source\repos\simulacroExamen2.2\simulacroExamen2.2\obj\Debug\simulacroExamen2.2.csproj.GenerateResource.cache
+C:\Users\huige\source\repos\simulacroExamen2.2\simulacroExamen2.2\obj\Debug\simulacroExamen2.2.csproj.CoreCompileInputs.cache
+C:\Users\huige\source\repos\simulacroExamen2.2\simulacroExamen2.2\obj\Debug\simulacroExamen2.2.exe
+C:\Users\huige\source\repos\simulacroExamen2.2\simulacroExamen2.2\obj\Debug\simulacroExamen2.2.pdb
